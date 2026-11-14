@@ -29,4 +29,4 @@ footer{{margin-top:auto;display:flex;justify-content:space-between;align-items:c
 footer img{{height:60px}}footer span{{font-size:25px;color:var(--navy);font-weight:500}}
 </style></head><body>
 <div class="eyebrow">{e(s['eyebrow'])}</div>{big}{h1}{lead}{rl}<ul>{rows}</ul>{note}
-<footer><img src="logo.svg"><span>yourenergyinsider.com</span></footer></body></html>''')
+<footer><img src="logo.svg"><span>energyplainly.com</span></footer></body></html>''')
